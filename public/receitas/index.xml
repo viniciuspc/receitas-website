@@ -9,13 +9,6 @@
     <atom:link href="http://localhost:1313/receitas/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title></title>
-      <link>http://localhost:1313/receitas/arroz_com_frango_e_lentilha/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/receitas/arroz_com_frango_e_lentilha/</guid>
-      <description>&lt;h1 id=&#34;arroz-com-frango-e-lentilha&#34;&gt;Arroz com Frango e Lentilha&lt;/h1&gt;&#xA;&lt;h2 id=&#34;ingredientes&#34;&gt;Ingredientes&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Arroz pronto&lt;/li&gt;&#xA;&lt;li&gt;Frango assado desfiado&lt;/li&gt;&#xA;&lt;li&gt;Grão-de-bico&lt;/li&gt;&#xA;&lt;li&gt;Linguiça&lt;/li&gt;&#xA;&lt;li&gt;Caldo de galinha&lt;/li&gt;&#xA;&lt;li&gt;Sal&lt;/li&gt;&#xA;&lt;li&gt;Cebola&lt;/li&gt;&#xA;&lt;li&gt;Alho&lt;/li&gt;&#xA;&lt;li&gt;Molho (opcional)&lt;/li&gt;&#xA;&lt;li&gt;Queijo ralado (opcional)&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;modo-de-preparo&#34;&gt;Modo de Preparo&lt;/h2&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;Deixar o grão-de-bico de molho por 12 horas.&lt;/li&gt;&#xA;&lt;li&gt;Cozinhar o grão-de-bico com um pedaço de linguiça, 1/2 pedaço de caldo de galinha, uma pitada de sal e cebola.&lt;/li&gt;&#xA;&lt;li&gt;Fritar um pouco de cebola e alho no frango (&lt;strong&gt;refogando&lt;/strong&gt;).&lt;/li&gt;&#xA;&lt;li&gt;Juntar o arroz e depois o grão-de-bico.&lt;/li&gt;&#xA;&lt;li&gt;Se desejar, pode colocar mais um pouco de molho para colorir.&lt;/li&gt;&#xA;&lt;li&gt;Se desejar, pode colocar queijo ralado também.&lt;/li&gt;&#xA;&lt;/ol&gt;</description>
-    </item>
-    <item>
-      <title></title>
       <link>http://localhost:1313/receitas/bife_a_milanesa/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/receitas/bife_a_milanesa/</guid>

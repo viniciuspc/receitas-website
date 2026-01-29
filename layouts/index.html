@@ -1,0 +1,18 @@
+{{ define "main" }}
+<main class="pa3 pa4-ns w-100 w-70-ns center near-black">
+  
+  <p class="mt2 gray">Glossário</p>
+
+  {{ $pages := where .Site.RegularPages "Section" "ne" "posts" }}
+  {{ range sort $pages "RelPermalink" }}
+    {{ $t := .LinkTitle }}
+    {{ if not $t }}
+      {{ with .File }}{{ $t = humanize (replace .TranslationBaseName "_" " ") }}{{ end }}
+    {{ end }}
+
+    <div class="pv2 bb b--black-10">
+      <a class="link dim dark-blue" href="{{ .RelPermalink }}">{{ $t }}</a>
+    </div>
+  {{ end }}
+</main>
+{{ end }}
