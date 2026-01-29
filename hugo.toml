@@ -1,0 +1,4 @@
+baseURL = 'https://receitas.viniciuspc.com/'
+languageCode = 'pt-br'
+title = 'Receitas da Vó'
+theme = 'ananke'
